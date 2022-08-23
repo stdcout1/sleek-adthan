@@ -1,2 +1,10 @@
 # sleek-adthan
-Sleek Adthan app 
+### Requirements:
+  - setuptools~=65.1.0
+  - parserc~=0.0.0
+  - dateparser~=1.1.1
+  - simpleaudio~=1.0.4
+  - pystray~=0.19.4
+  - Pillow~=9.2.0
+  - requests~=2.28.1
+  - beautifulsoup4~=4.11.1
